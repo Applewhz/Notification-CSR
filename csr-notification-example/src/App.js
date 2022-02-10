@@ -10,7 +10,6 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 // create component to add new data and to have toast message indicating summary of message
 
 
-
 function App() {
   return (
     <div className="App">
